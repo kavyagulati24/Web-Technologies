@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Centered Heading and Image</title>
+  <style>
+    body {
+      text-align: center; 
+      font-family: Arial, sans-serif;
+      margin-top: 40px;
+    }
+
+    img {
+      display: block;     
+      margin: 20px auto;   
+      width: 300px;        
+      border: 2px solid #000;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Beautiful Sea View</h1>
+
+  <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e" alt="Sea Image">
+
+</body>
+</html>
