@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Internal Link</title>
+</head>
+<body>
+
+<h2>Navigation</h2>
+<a href="#section2">Go to Section 2</a>
+<br>
+<a href="#section3">Go to Section 3</a>
+
+<h2 id="section1">Section 1</h2>
+<p>This is section 1 content...</p>
+
+<h2 id="section2">Section 2</h2>
+<p>This is section 2 content...</p>
+
+<h2 id="section3">Section 3</h2>
+<p>This is section 3 content...</p>
+
+</body>
+</html>
