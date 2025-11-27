@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Form</title>
+</head>
+<body>
+
+<h2>Sample Form</h2>
+
+<form>
+    <label>Name:</label>
+    <input type="text" name="username"><br><br>
+    <label>Password:</label>
+    <input type="password" name="password"><br><br>
+    <label>Comments:</label><br>
+    <textarea name="comments" rows="4" cols="30"></textarea><br><br>
+    <label>Upload File:</label>
+    <input type="file" name="file"><br><br>
+    <label>Select Country:</label>
+    <select name="country">
+        <option value="india">India</option>
+        <option value="usa">USA</option>
+        <option value="uk">UK</option>
+        <option value="canada">Canada</option>
+    </select><br><br>
+    <input type="submit" value="Submit">
+
+</form>
+
+</body>
+</html>
